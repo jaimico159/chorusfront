@@ -1,9 +1,9 @@
 import React from 'react';
-import Home from './Home'
+import Root from './app'
 
 function App() {
   return (
-    <Home/>
+    <Root/>
   );
 }
 
